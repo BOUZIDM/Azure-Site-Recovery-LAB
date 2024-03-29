@@ -1,5 +1,7 @@
 # Azure-Site-Recovery-LAB
 
+https://github.com/BOUZIDM/Azure-Site-Recovery-LAB/blob/main/Azure%20Site%20Recovery.docx
+
 Azure Site Recovery LAB
 Scenario: Assume that I am in one of the organizations responsible for the infrastructure of Azure. I give the administrator permission (Microsoft Entra ID) to one of the employees responsible for (the database) to access various resources on Azure.
 
