@@ -10,3 +10,5 @@ The latter created a virtual machine for me to work on (to manage the MySQl serv
  In this case, you may need to completely restore the default device and restore it to its location before the problem.
 
 To fix such errors  i use Azure Site Recovery, you can replicate virtual machines (VMs) from your primary data center or on-premises environment to Azure. Replication can be configured for both Hyper-V and VMware virtual machines, allowing flexibility in the source environment.
+
+![Artboard 1](https://github.com/BOUZIDM/Azure-Site-Recovery-LAB/assets/129424084/7f58b2b4-a77b-40b1-9769-97d885192a8b)
